@@ -47,15 +47,19 @@
             
             <file name="org-netbeans-modules-git-ui-fetch-FetchFromUpstreamAction.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-FetchFromUpstreamAction.instance"/>
-                <attr name="position" intvalue="570"/>
+                <attr name="position" intvalue="560"/>
             </file>
             <file name="org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance.shadow">
                   <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance"/>
-                <attr name="position" intvalue="560"/>
+                <attr name="position" intvalue="570"/>
             </file>
             <file name="org-netbeans-modules-git-ui-push-PushToUpstreamAction.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-push-PushToUpstreamAction.instance"/>
-                <attr name="position" intvalue="900"/>
+                <attr name="position" intvalue="580"/>
+            </file>
+            <file name="sep2.instance">
+                <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
+                <attr name="position" intvalue="690"/>
             </file>
             <file name="org-netbeans-modules-git-ui-fetch-FetchAction.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-FetchAction.instance"/>
@@ -63,11 +67,11 @@
             </file>
             <file name="org-netbeans-modules-git-ui-fetch-PullAction.instance.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullAction.instance"/>
-                <attr name="position" intvalue="580"/>
+                <attr name="position" intvalue="800"/>
             </file>
             <file name="org-netbeans-modules-git-ui-push-PushAction.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-push-PushAction.instance"/>
-                <attr name="position" intvalue="800"/>
+                <attr name="position" intvalue="900"/>
             </file>
             
         </folder>

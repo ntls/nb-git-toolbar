@@ -44,30 +44,32 @@
                 <attr name="instanceCreate" newvalue="javax.swing.JSeparator"/>
                 <attr intvalue="550" name="position"/>
             </file>
-            <file name="org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance.shadow">
-                  <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance"/>
-                <attr name="position" intvalue="560"/>
-            </file>
+            
             <file name="org-netbeans-modules-git-ui-fetch-FetchFromUpstreamAction.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-FetchFromUpstreamAction.instance"/>
                 <attr name="position" intvalue="570"/>
             </file>
-            <file name="org-netbeans-modules-git-ui-fetch-PullAction.instance.shadow">
-                <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullAction.instance"/>
-                <attr name="position" intvalue="580"/>
-            </file>
-            <file name="org-netbeans-modules-git-ui-fetch-FetchAction.shadow">
-                <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-FetchAction.instance"/>
-                <attr name="position" intvalue="700"/>
-            </file>
-            <file name="org-netbeans-modules-git-ui-push-PushAction.shadow">
-                <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-push-PushAction.instance"/>
-                <attr name="position" intvalue="800"/>
+            <file name="org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance.shadow">
+                  <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullFromUpstreamAction.instance"/>
+                <attr name="position" intvalue="560"/>
             </file>
             <file name="org-netbeans-modules-git-ui-push-PushToUpstreamAction.shadow">
                 <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-push-PushToUpstreamAction.instance"/>
                 <attr name="position" intvalue="900"/>
             </file>
+            <file name="org-netbeans-modules-git-ui-fetch-FetchAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-FetchAction.instance"/>
+                <attr name="position" intvalue="700"/>
+            </file>
+            <file name="org-netbeans-modules-git-ui-fetch-PullAction.instance.shadow">
+                <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-fetch-PullAction.instance"/>
+                <attr name="position" intvalue="580"/>
+            </file>
+            <file name="org-netbeans-modules-git-ui-push-PushAction.shadow">
+                <attr name="originalFile" stringvalue="Actions/Git/org-netbeans-modules-git-ui-push-PushAction.instance"/>
+                <attr name="position" intvalue="800"/>
+            </file>
+            
         </folder>
     </folder>
 </filesystem>
